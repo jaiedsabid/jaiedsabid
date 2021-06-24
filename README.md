@@ -9,7 +9,7 @@ I am also a passionate learner who is always willing to learn new technologies. 
 
 **Connect me on** 👉🏻 [![LinkedIn](https://img.shields.io/badge/%20-Connect-black?style=plastic&logo=linkedin&logoColor=ffffff&labelColor=282C34&logoWidth=20)](https://www.linkedin.com/in/jaiedsabid/)
 [![LinkedIn](https://img.shields.io/badge/%20-Connect-black?style=plastic&logo=facebook&logoColor=ffffff&labelColor=282C34&logoWidth=20)](https://www.facebook.com/jaied.al/) 
-![Twitter](https://img.shields.io/twitter/follow/jaiedsabid?style=social)  
+[![Twitter](https://img.shields.io/twitter/follow/jaiedsabid?style=social)](https://twitter.com/jaiedsabid)
 ![GitHub](https://img.shields.io/github/followers/jaiedsabid?style=social)
 
 - 🌐 You can visit [my personal website](https://jaiedsabid.com) to see some of my projects. 👉🏻 [Click here](https://jaiedsabid.com)
