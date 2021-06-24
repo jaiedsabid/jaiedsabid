@@ -40,6 +40,6 @@ I am also a passionate learner who is always willing to learn new technologies. 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=000000&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-![Jaied's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiedsabid&bg_color=30,4dcfb6,4d8fb6&title_color=fff&text_color=fff&show_icons=true&icon_color=353535)
+![Jaied's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiedsabid&bg_color=30,92E3A9,DEF7E5&title_color=1D1D1D&text_color=585858&show_icons=true&icon_color=2C6A2C)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=30,4dcfb6,4d8fb6&title_color=fff&text_color=fff&show_icons=true&icon_color=353535)](https://github.com/jaiedsabid/jaiedsabid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=30,92E3A9,DEF7E5&title_color=1D1D1D&text_color=585858&show_icons=true&icon_color=2C6A2C)](https://github.com/jaiedsabid/jaiedsabid)
