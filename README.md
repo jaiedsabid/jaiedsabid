@@ -13,7 +13,10 @@ I am also a passionate learner who is always willing to learn new technologies. 
 [<img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook&logoColor=ffffff&logoWidth=18&color=097FEA" />](https://www.facebook.com/jaied.al/) 
 [<img src="https://img.shields.io/badge/-Stack%20Overflow-black?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&logoWidth=18&color=F58025" />](https://stackoverflow.com/users/13869905/jaied)
 
+<br/>
+
 - 🌐 Visit [my personal website](https://jaiedsabid.com) to see my blog posts and projects. 👉🏻 [Click here](https://jaiedsabid.com)
+
 
 ## 🛠 Technologies and Tools:
 
@@ -41,8 +44,14 @@ I am also a passionate learner who is always willing to learn new technologies. 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=000000&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaiedsabid&bg_color=30,92E3A9,DEF7E5&title_color=1D1D1D&text_color=585858&show_icons=true&icon_color=2C6A2C" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=30,92E3A9,DEF7E5&title_color=1D1D1D&card_width=496&text_color=585858&show_icons=true&icon_color=2C6A2C">
+
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
