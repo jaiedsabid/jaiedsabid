@@ -7,14 +7,15 @@
 I am a Full-stack web developer and also an undergrad Computer Science and Engineering student currently studying at American International University-Bangladesh. For web application development I use React.js, Node.js, MongoDB, Laravel, WordPress, and MySQL. I have experience in building static and dynamic websites using these technologies.
 I am also a passionate learner who is always willing to learn new technologies. I love to explore and work with new technologies to solve real-life problems.
 
-**Connect me on** 👉🏻 [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-black?style=plastic&logo=linkedin&logoColor=ffffff&labelColor=282C34&logoWidth=20)](https://www.linkedin.com/in/jaiedsabid/)
-[![LinkedIn](https://img.shields.io/badge/%20-Facebook-black?style=plastic&logo=facebook&logoColor=ffffff&labelColor=282C34&logoWidth=20)](https://www.facebook.com/jaied.al/) 
-[![Twitter](https://img.shields.io/twitter/follow/jaiedsabid?style=social)](https://twitter.com/jaiedsabid)
-![GitHub](https://img.shields.io/github/followers/jaiedsabid?style=social)
+### Connect me on 👇🏻
+[<img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoWidth=18&color=2B7BCB" />](https://www.linkedin.com/in/jaiedsabid/)
+[<img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=ffffff&logoWidth=18&color=1CA0F1" />](https://twitter.com/jaiedsabid)
+[<img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook&logoColor=ffffff&logoWidth=18&color=097FEA" />](https://www.facebook.com/jaied.al/) 
+[<img src="https://img.shields.io/badge/-Stack%20Overflow-black?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&logoWidth=18&color=F58025" />](https://stackoverflow.com/users/13869905/jaied)
 
-- 🌐 You can visit [my personal website](https://jaiedsabid.com) to see some of my projects. 👉🏻 [Click here](https://jaiedsabid.com)
+- 🌐 Visit [my personal website](https://jaiedsabid.com) to see my blog posts and projects. 👉🏻 [Click here](https://jaiedsabid.com)
 
-## 💻 Technologies and Tools:
+## 🛠 Technologies and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
@@ -40,6 +41,8 @@ I am also a passionate learner who is always willing to learn new technologies. 
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=000000&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-![Jaied's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiedsabid&bg_color=30,92E3A9,DEF7E5&title_color=1D1D1D&text_color=585858&show_icons=true&icon_color=2C6A2C)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&bg_color=30,92E3A9,DEF7E5&title_color=1D1D1D&text_color=585858&show_icons=true&icon_color=2C6A2C)](https://github.com/jaiedsabid/jaiedsabid)
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaiedsabid&bg_color=30,92E3A9,DEF7E5&title_color=1D1D1D&text_color=585858&show_icons=true&icon_color=2C6A2C" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=30,92E3A9,DEF7E5&title_color=1D1D1D&card_width=496&text_color=585858&show_icons=true&icon_color=2C6A2C">
