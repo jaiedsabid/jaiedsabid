@@ -52,7 +52,7 @@ I am also a passionate learner who is always willing to learn new technologies. 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&bg_color=30,92E3A9,DEF7E5&title_color=1D1D1D&card_width=496&text_color=585858&show_icons=true&icon_color=2C6A2C">
 
 
-## 💻 Blog Posts
+## 💻 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [5 Reasons why you should learn React JS](https://jaiedsabid.com/why-you-should-learn-react-js/)
 - [What is the Laravel framework? Why should you learn it if you want to be a PHP developer?](https://jaiedsabid.com/what-is-the-laravel-framework-why-should-you-learn-it-if-you-want-to-be-a-php-developer/)
