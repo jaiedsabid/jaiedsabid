@@ -10,8 +10,7 @@ I am also a passionate learner who is always willing to learn new technologies. 
 ### Connect me on 👇🏻
 [<img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoWidth=18&color=2B7BCB" />](https://www.linkedin.com/in/jaiedsabid/)
 [<img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=ffffff&logoWidth=18&color=1CA0F1" />](https://twitter.com/jaiedsabid)
-[<img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook&logoColor=ffffff&logoWidth=18&color=097FEA" />](https://www.facebook.com/jaied.al/) 
-[<img src="https://img.shields.io/badge/-Stack%20Overflow-black?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&logoWidth=18&color=F58025" />](https://stackoverflow.com/users/13869905/jaied)
+[<img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook&logoColor=ffffff&logoWidth=18&color=097FEA" />](https://www.facebook.com/jaied.al/) [<img src="https://img.shields.io/badge/-Stack%20Overflow-black?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&logoWidth=18&color=F58025" />](https://stackoverflow.com/users/13869905/jaied)
 
 <br/>
 
@@ -33,6 +32,7 @@ I am also a passionate learner who is always willing to learn new technologies. 
 ![Chakra-UI](https://img.shields.io/badge/-Chakra%20UI-000000?style=flat&logo=chakra-ui&logoColor=38C7BD&labelColor=ffffff)
 ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-000000?style=flat&logo=jsonwebtokens&logoColor=000000&labelColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello&logoColor=026AA7&labelColor=ffffff)
