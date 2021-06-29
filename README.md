@@ -7,7 +7,7 @@
 I am a Full-stack web developer and also an undergrad Computer Science and Engineering student currently studying at American International University-Bangladesh. For web application development I use React.js, Node.js, MongoDB, Laravel, WordPress, and MySQL. I have experience in building static and dynamic websites using these technologies.
 I am also a passionate learner who is always willing to learn new technologies. I love to explore and work with new technologies to solve real-life problems.
 
-### Connect me on 👇🏻
+### 🔗 Connect me on 👇🏻
 [<img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoWidth=18&color=2B7BCB" />](https://www.linkedin.com/in/jaiedsabid/)
 [<img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=ffffff&logoWidth=18&color=1CA0F1" />](https://twitter.com/jaiedsabid)
 [<img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook&logoColor=ffffff&logoWidth=18&color=097FEA" />](https://www.facebook.com/jaied.al/) [<img src="https://img.shields.io/badge/-Stack%20Overflow-black?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&logoWidth=18&color=F58025" />](https://stackoverflow.com/users/13869905/jaied)
