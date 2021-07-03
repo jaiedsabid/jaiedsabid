@@ -1,4 +1,4 @@
-<a href="https://www.jaiedsabid.com"><img width="100%" src="https://github.com/jaiedsabid/jaiedsabid.github.io/blob/main/assets/svg/Code%20typing-bro.svg" height="370px"/></a>
+<a href="https://www.jaiedsabid.com"><img width="100%" src="https://github.com/jaiedsabid/jaiedsabid.github.io/blob/gh-pages/Code%20typing-bro.svg" height="370px"/></a>
 
 <h3 align="center">Hi, I'm Jaied Al Sabid 👋🏻 👨🏻‍💻</h3>
 
