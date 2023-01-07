@@ -1,6 +1,7 @@
 <a href="https://www.jaiedsabid.com"><img width="100%" src="https://jaiedsabid.github.io/Code_typing-bro.svg" height="370px"/></a>
 
 <h3 align="center">Hi, I'm Jaied Al Sabid 👋🏻 👨🏻‍💻</h3>
+![Profile views](https://gpvc.arturio.dev/jaiedsabid)
 
 ### 📖 About Me
 
