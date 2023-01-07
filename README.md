@@ -4,7 +4,7 @@
 
 ### 📖 About Me
 
-I’m currently working as a Software Developer at Brainstorm Force. I graduated with a BSc in Computer Science & Engineering from American International University-Bangladesh (AIUB) in 2021. I am a passionate learner who is always willing to learn new technologies, and I love to explore and work with new technologies to solve real-life problems.
+I’m currently working as a Software Developer. I graduated with a BSc in Computer Science & Engineering from American International University-Bangladesh (AIUB) in 2021. I am a passionate learner who is always willing to learn new technologies, and I love to explore and work with new technologies to solve real-life problems.
 
 I’m currently into Web application development. For web application development, the tech stack I use is PHP, JavaScript, jQuery, WordPress, React.js, Node.js, & Express.js. For databases, I use MongoDB and MySQL.
 
