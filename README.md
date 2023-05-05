@@ -62,9 +62,9 @@ Besides programming, I love spicy food, playing video games and traveling.
 
 ## 💻 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Git commands I use daily as a Software Developer](https://jaiedsabid.com/software-developer-git-commands/)
 - [Top 3 CSS Frameworks](https://jaiedsabid.com/top-css-frameworks/)
 - [Why is PHP so popular among beginners?](https://jaiedsabid.com/why-is-php-so-popular-among-beginners/)
 - [5 Reasons why you should learn React JS](https://jaiedsabid.com/why-you-should-learn-react-js/)
 - [What is the Laravel framework? Why should you learn it if you want to be a PHP developer?](https://jaiedsabid.com/what-is-the-laravel-framework-why-should-you-learn-it-if-you-want-to-be-a-php-developer/)
-- [What is JavaScript, and why do we use it in web applications?](https://jaiedsabid.com/what-is-javascript-and-why-do-we-use-it-in-web-applications/)
 <!-- BLOG-POST-LIST:END -->
