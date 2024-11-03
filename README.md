@@ -7,6 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=jaiedsabid&color=blue&style=flat-square" alt="jaiedsabid" />
 </p>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jaiedsabid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</p>
+
+
 ### 📖 About Me
 
 I’m currently working as a Software Developer. I graduated with a BSc in Computer Science & Engineering from American International University-Bangladesh (AIUB) in 2021. I am a passionate learner who is always willing to learn new technologies, and I love to explore and work with new technologies to solve real-life problems.
