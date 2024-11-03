@@ -31,7 +31,7 @@ Besides programming, I love spicy food, playing video games, and traveling.
 
 <br/>
 
-## 🛠 Technologies and Tools:
+## 🛠 Skills:
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
