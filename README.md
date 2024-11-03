@@ -22,7 +22,7 @@ Besides programming, I love spicy food, playing video games, and traveling.
 
 ### 🔗 Connect me on 👇🏻
 [<img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=linkedin&logoColor=ffffff&logoWidth=18&color=2B7BCB" />](https://www.linkedin.com/in/jaiedsabid/)
-[<img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter&logoColor=ffffff&logoWidth=18&color=1CA0F1" />](https://twitter.com/jaiedsabid)
+[<img src="https://img.shields.io/badge/-X-black?style=for-the-badge&logo=x&logoColor=ffffff&logoWidth=18" />](https://x.com/jaiedsabid)
 [<img src="https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook&logoColor=ffffff&logoWidth=18&color=097FEA" />](https://www.facebook.com/jaied.al/) [<img src="https://img.shields.io/badge/-Stack%20Overflow-black?style=for-the-badge&logo=stackoverflow&logoColor=ffffff&logoWidth=18&color=F58025" />](https://stackoverflow.com/users/13869905/jaied)
 
 <br/>
