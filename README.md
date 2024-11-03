@@ -46,6 +46,7 @@ Besides programming, I love spicy food, playing video games, and traveling.
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0078D6?style=for-the-badge&logo=TailwindCSS&logoColor=ffffff)
 ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=ffffff)
+![Framer-Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![JSON Web Tokens](https://img.shields.io/badge/JSON%20Web%20Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
 ![storybook](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/material%20ui-blue?style=for-the-badge&logo=mui&logoColor=white)
