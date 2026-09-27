@@ -115,9 +115,9 @@ Besides programming, I love spicy food, playing video games, and traveling.
 
 ## 💻 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [npm Supply Chain Attacks: How to Protect Your JavaScript Projects &lpar;2026&rpar;](https://jaiedsabid.com/npm-supply-chain-attacks/)
+- [React 19.3: View Transitions, Fragment Refs, and Every New Feature Explained &lpar;2026&rpar;](https://jaiedsabid.com/react-19-3-new-features/)
 - [WordPress Abilities API and MCP Adapter: How to Make Your Plugin AI-Agent Ready &lpar;2026 Guide&rpar;](https://jaiedsabid.com/wordpress-abilities-api-mcp-adapter/)
 - [Git commands I use daily as a Software Developer](https://jaiedsabid.com/software-developer-git-commands/)
 - [Top 3 CSS Frameworks](https://jaiedsabid.com/top-css-frameworks/)
-- [Why is PHP so popular among beginners?](https://jaiedsabid.com/why-is-php-so-popular-among-beginners/)
-- [5 Reasons why you should learn React JS](https://jaiedsabid.com/why-you-should-learn-react-js/)
 <!-- BLOG-POST-LIST:END -->
