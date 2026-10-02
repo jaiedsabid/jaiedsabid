@@ -115,9 +115,9 @@ Besides programming, I love spicy food, playing video games, and traveling.
 
 ## 💻 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Next.js vs Astro: Which Should You Pick in 2026?](https://jaiedsabid.com/next-js-vs-astro/)
+- [TypeScript 7 Is Here: What Breaks and How to Upgrade Safely &lpar;2026 Guide&rpar;](https://jaiedsabid.com/typescript-7-upgrade-guide/)
+- [How to Build a CLI Tool with Node.js and TypeScript &lpar;No Dependencies, 2026&rpar;](https://jaiedsabid.com/build-cli-tool-with-node/)
+- [Next.js Security Update 2026: How to Patch Your App Fast](https://jaiedsabid.com/next-js-security-update/)
 - [npm Supply Chain Attacks: How to Protect Your JavaScript Projects &lpar;2026&rpar;](https://jaiedsabid.com/npm-supply-chain-attacks/)
-- [React 19.3: View Transitions, Fragment Refs, and Every New Feature Explained &lpar;2026&rpar;](https://jaiedsabid.com/react-19-3-new-features/)
-- [WordPress Abilities API and MCP Adapter: How to Make Your Plugin AI-Agent Ready &lpar;2026 Guide&rpar;](https://jaiedsabid.com/wordpress-abilities-api-mcp-adapter/)
-- [Git commands I use daily as a Software Developer](https://jaiedsabid.com/software-developer-git-commands/)
-- [Top 3 CSS Frameworks](https://jaiedsabid.com/top-css-frameworks/)
 <!-- BLOG-POST-LIST:END -->
