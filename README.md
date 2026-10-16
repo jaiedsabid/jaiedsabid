@@ -115,9 +115,9 @@ Besides programming, I love spicy food, playing video games, and traveling.
 
 ## 💻 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Upgrade to Next.js 16 Before Next.js 15 Support Ends &lpar;Oct 21, 2026&rpar;](https://jaiedsabid.com/upgrade-to-next-js-16/)
+- [AI SDK 7: What Changed and How to Upgrade Your TypeScript Agents](https://jaiedsabid.com/ai-sdk-7/)
 - [PHP 8.5 Features That Actually Change How You Write Code](https://jaiedsabid.com/php-8-5-features/)
 - [ECMAScript 2026: 7 New JavaScript Features and How to Use Them Safely](https://jaiedsabid.com/ecmascript-2026-features/)
 - [Astro 7: What’s New, What Breaks, and How to Upgrade &lpar;2026 Guide&rpar;](https://jaiedsabid.com/astro-7-upgrade-guide/)
-- [WordPress Speculative Loading: Near-Instant Navigation Since 6.8](https://jaiedsabid.com/wordpress-speculative-loading/)
-- [Next.js vs Astro: Which Should You Pick in 2026?](https://jaiedsabid.com/next-js-vs-astro/)
 <!-- BLOG-POST-LIST:END -->
