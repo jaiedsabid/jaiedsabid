@@ -115,9 +115,9 @@ Besides programming, I love spicy food, playing video games, and traveling.
 
 ## 💻 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Upgrade to Next.js 16 Before Next.js 15 Support Ends &lpar;Oct 21, 2026&rpar;](https://jaiedsabid.com/upgrade-to-next-js-16/)
-- [AI SDK 7: What Changed and How to Upgrade Your TypeScript Agents](https://jaiedsabid.com/ai-sdk-7/)
-- [PHP 8.5 Features That Actually Change How You Write Code](https://jaiedsabid.com/php-8-5-features/)
-- [ECMAScript 2026: 7 New JavaScript Features and How to Use Them Safely](https://jaiedsabid.com/ecmascript-2026-features/)
-- [Astro 7: What’s New, What Breaks, and How to Upgrade &lpar;2026 Guide&rpar;](https://jaiedsabid.com/astro-7-upgrade-guide/)
+- [TypeScript 7.1: What’s New in the Beta and How to Test It Safely](https://jaiedsabid.com/typescript-7-1/)
+- [PHP RCE Vulnerability: How to Patch CVE-2026-109618 and CVE-2026-109619 Now](https://jaiedsabid.com/php-rce-vulnerability/)
+- [Node.js Vulnerability CVE-2026-111497: How to Patch the Brotli RCE Bug Today](https://jaiedsabid.com/node-js-vulnerability/)
+- [Node.js 26 LTS: What Changes and How to Upgrade Safely &lpar;2026&rpar;](https://jaiedsabid.com/node-js-26/)
+- [React Compiler 1.0: How to Adopt It Without Breaking Your App](https://jaiedsabid.com/react-compiler/)
 <!-- BLOG-POST-LIST:END -->
