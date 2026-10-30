@@ -115,9 +115,9 @@ Besides programming, I love spicy food, playing video games, and traveling.
 
 ## 💻 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [TanStack AI 1.0: What’s New and How to Upgrade From 0.x](https://jaiedsabid.com/tanstack-ai/)
+- [Next.js Cache Components: What 16.4 Changes and How to Migrate](https://jaiedsabid.com/nextjs-cache-components/)
+- [WordPress 7.2: What’s New in Beta 1 and How to Test It Safely](https://jaiedsabid.com/wordpress-7-2/)
 - [TypeScript 7.1: What’s New in the Beta and How to Test It Safely](https://jaiedsabid.com/typescript-7-1/)
 - [PHP RCE Vulnerability: How to Patch CVE-2026-109618 and CVE-2026-109619 Now](https://jaiedsabid.com/php-rce-vulnerability/)
-- [Node.js Vulnerability CVE-2026-111497: How to Patch the Brotli RCE Bug Today](https://jaiedsabid.com/node-js-vulnerability/)
-- [Node.js 26 LTS: What Changes and How to Upgrade Safely &lpar;2026&rpar;](https://jaiedsabid.com/node-js-26/)
-- [React Compiler 1.0: How to Adopt It Without Breaking Your App](https://jaiedsabid.com/react-compiler/)
 <!-- BLOG-POST-LIST:END -->
