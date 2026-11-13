@@ -115,9 +115,9 @@ Besides programming, I love spicy food, playing video games, and traveling.
 
 ## 💻 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Improve INP: 5 Fixes for Slow Clicks &lpar;Real Before and After&rpar;](https://jaiedsabid.com/improve-inp/)
+- [How to Build an MCP Server in TypeScript &lpar;Step by Step, 2026&rpar;](https://jaiedsabid.com/build-an-mcp-server/)
 - [TanStack AI 1.0: What’s New and How to Upgrade From 0.x](https://jaiedsabid.com/tanstack-ai/)
 - [Next.js Cache Components: What 16.4 Changes and How to Migrate](https://jaiedsabid.com/nextjs-cache-components/)
 - [WordPress 7.2: What’s New in Beta 1 and How to Test It Safely](https://jaiedsabid.com/wordpress-7-2/)
-- [TypeScript 7.1: What’s New in the Beta and How to Test It Safely](https://jaiedsabid.com/typescript-7-1/)
-- [PHP RCE Vulnerability: How to Patch CVE-2026-109618 and CVE-2026-109619 Now](https://jaiedsabid.com/php-rce-vulnerability/)
 <!-- BLOG-POST-LIST:END -->
